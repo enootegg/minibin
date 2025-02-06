@@ -36,7 +36,7 @@ jobs:
     - name: Upload artifact
       uses: actions/upload-artifact@v4
       with:
-        name: built-exe
+        name: Кошик
         path: dist/Кошик.exe
 
     - name: VirusTotal Scan
