@@ -1,8 +1,0 @@
-[Version]
-FileVersion = 1.0.0.0
-ProductVersion = 1.0.0.0
-CompanyName = enootegg
-FileDescription = MiniBin App
-ProductName = MiniBin
-LegalCopyright = Copyright 2025 enootegg
-OriginalFilename = Кошик.exe
